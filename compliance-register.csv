@@ -1,0 +1,8 @@
+requirementId,sourceId,sourceSection,checkedAt,classification,product,owner,implementationPath,testId,evidencePath,status
+AD01,S04,manifest,2026-10-26,AD,DataCanvas,engineering,src/manifest.json,MAN01,docs/api-inventory.md,implemented
+AD04,S08;S09,storage and failure recovery,2026-10-26,AD,DataCanvas,engineering,src/lib/recipe.ts,DC06,docs/release-checklist.md,implemented
+AD06,S11,accessibility,2026-10-26,AD,DataCanvas,engineering,src/components/App.tsx,MAN02,docs/reviewer-guide.md,implemented
+AD07,S12;S13,compatibility,2026-10-26,AD,DataCanvas,QA,docs/reviewer-guide.md,MAN02,docs/release-checklist.md,blocked
+AD08,S14;S15,distribution and listing,2026-10-26,AD,DataCanvas,publisher,scripts/validate-release.mjs,MAN01,docs/marketplace-listing.md,implemented
+DC01-DC07,S08,DataCanvas behavior,2026-10-26,ENG,DataCanvas,engineering,src/lib,DC01-DC07,test/datacanvas.test.ts,implemented
+EXP01,S05;S06,export authorization,2026-10-26,ENG,DataCanvas,engineering,src/lib,DC05,docs/api-inventory.md,not_applicable
