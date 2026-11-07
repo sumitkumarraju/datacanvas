@@ -1,3 +1,7 @@
+# Submitted for Adobe review — 7 November 2026
+
+DataCanvas 1.0.1 was submitted successfully. Adobe displayed “You successfully submitted a public add-on listing!” and estimated 5–10 days for review, with an email on completion. This is submission confirmation, not approval.
+
 # Current review-fix candidate: DataCanvas 1.0.1
 
 Use DataCanvas-1.0.1.zip for the next review cycle, not the retained 1.0.0 archive. Replace the listing screenshots with listing/screenshot-1.png through screenshot-3.png and use metadata/marketplace-listing.md for corrected product naming. Reviewer response and test evidence are in reviewer/1.0.1/. No response email or marketplace resubmission has been sent by this repair task.
