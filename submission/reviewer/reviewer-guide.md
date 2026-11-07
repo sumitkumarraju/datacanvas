@@ -15,11 +15,11 @@ Adobe Express Add-on Development must be enabled in the reviewer account. The lo
 2. Confirm the Month and Sales mapping and the bar preview.
 3. Change duplicate handling and sorting controls.
 4. Choose **Download PNG** and inspect the downloaded flat image.
-5. Choose **Add chart to Express** and confirm the image is inserted on the active page.
+5. Choose **Add chart to Adobe Express** and confirm the image is inserted on the active page.
 6. Choose **Export with data**, accept the sensitive-data warning, and reload the JSON recipe.
 7. Choose **Export no-data recipe**, reload it, and confirm the UI asks for CSV reimport.
 8. Import a CSV containing a quoted comma, quoted newline, Unicode label, blank value, and `1e309`; confirm specific errors are shown and no chart is created until invalid data is resolved.
-9. Switch the Express host between light and dark themes and confirm the panel remains readable.
+9. Switch the Adobe Express host between light and dark themes and confirm the panel remains readable.
 
 ## Submission screenshot
 

@@ -1,14 +1,16 @@
 {
     "testId": "5389cb72-b26f-4f18-ba71-60fdd701b8df",
     "name": "DataCanvas",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "manifestVersion": 2,
     "requirements": {
         "apps": [
             {
                 "name": "Express",
                 "apiVersion": 1,
-                "supportedDeviceClass": ["desktop"]
+                "supportedDeviceClass": [
+                    "desktop"
+                ]
             }
         ],
         "supportsTouch": false
@@ -19,7 +21,9 @@
             "id": "panel1",
             "main": "index.html",
             "permissions": {
-                "sandbox": ["allow-downloads"]
+                "sandbox": [
+                    "allow-downloads"
+                ]
             }
         }
     ]

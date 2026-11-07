@@ -1,10 +1,3 @@
-# DataCanvas 1.0.0 release notes
+# DataCanvas 1.0.1
 
-- Import UTF-8 CSV data locally with bounded parsing.
-- Validate missing, non-finite, and malformed values before chart creation.
-- Create bar, line, and pie charts with duplicate aggregation and explicit sorting.
-- Insert the chart into Adobe Express as a flat PNG or download it.
-- Export and reload data-bearing or no-data recipes with sensitive-data warning.
-- Support the current Adobe Express light and dark themes.
-
-Known limits: one category and one numeric series; desktop Express only; native editable chart parts are outside v1.
+Fixed Help and recipe export in the Adobe Express sandbox with accessible in-panel dialogs. Prevented copying or dragging panel UI into the document while preserving text-field editing. Added clear CSV-import guidance and gated chart creation for no-data recipes. Added dismissible notifications and corrected product references to Adobe Express. Includes updated real-host screenshots.

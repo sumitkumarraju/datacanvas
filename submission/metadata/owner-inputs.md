@@ -1,16 +1,7 @@
-# Adobe owner inputs
+# Publisher and remaining portal checks
 
-These fields must be supplied by the publisher in Adobe's submission portal.
+Confirmed publisher: sumit kumar. Support: sumitts317@gmail.com. Portfolio: https://skrdev.me/.
 
-- Support email: `OWNER_INPUT_REQUIRED`
-- Help URL: `OWNER_INPUT_REQUIRED`
-- Privacy Notice URL: `OWNER_INPUT_REQUIRED`
-- EULA URL: `OWNER_INPUT_REQUIRED`
-- Publisher public name: `OWNER_INPUT_REQUIRED`
-- Publisher marketing website: `OWNER_INPUT_REQUIRED`
-- Publisher description: `OWNER_INPUT_REQUIRED`
-- EU trader details, if distributing in the EU: `OWNER_INPUT_REQUIRED`
-- Real Adobe Express host version, OS, browser, and test date: `OWNER_INPUT_REQUIRED`
-- Real-host screenshots or recording: `OWNER_INPUT_REQUIRED`
+Real-host tests and screenshots: Chrome on macOS, 7 November 2026. Exact Adobe Express build was not recorded.
 
-DataCanvas has no account system, cloud service, payment flow, telemetry, analytics, or generative AI provider. It processes imported CSV data locally and inserts a flat PNG into the active Express page.
+Still verify: a working public DataCanvas help URL, any privacy/EULA URLs, publisher profile and trader details for intended regions. Local privacy/EULA files are drafts and are not proof of publication. Complete the actual clipboard/canvas-paste test; event-level protection has passed.
